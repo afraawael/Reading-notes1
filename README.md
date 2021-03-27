@@ -3,7 +3,7 @@ _Hello everyone I'm Afraa Wael a 24 years old female, I'm Jordanian, I live in A
 
 # Table of content: 
 | Assigment  |Link  |
-| ----------  | --------  |
+| --------  | --------  |
 |Class1- Read01   | [Read01](Read01)   |
 |Class2- Read02a  | [Read02a](Read02a) |
 |Class2- Read02b  | [Read02b](Read02b) | 
