@@ -1,0 +1,4 @@
+-we use html elements to describe the structure of the page
+-we use css for the styling for our page
+-we can make a seperate file for the css or we can add it inside the html file
+-variables are used to store informayions
