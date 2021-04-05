@@ -2,46 +2,46 @@
 
 -Html is used for the structure of the website, and it will appear like this:
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>
+-<!DOCTYPE html>
+-<html>
+-<head>
+-<title>
 
 
  
-</title>
+-</title>
 
 
-</head>
-<body>
-<header>
-    <h1>
+-</head>
+-<body>
+-<header>
+  -  <h1>
 
 
-        </h1>
+ -       </h1>
 
 
-</header>
+-</header>
  
-<main>
+-<main>
 
 
  
-</main>
+-</main>
 
 
-<footer>
+-<footer>
     
 
 
-</footer>
+-</footer>
 
 
-</body>
+-</body>
 
 
 
-</html>
+-</html>
 
 
 -We use html pages to write texts 
