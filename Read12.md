@@ -4,7 +4,7 @@
 * Drawing a line chart
 * Drawing a pie chart
 * Drawing a bar chart
-# The <canvas> element: 
+# The canvas element: 
 - it has 2 attributes width and height 
 # Drawing shapes with canvas :
 - Drawing rectangles: 
