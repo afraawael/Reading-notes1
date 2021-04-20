@@ -1,0 +1,2 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+-Team work can be hard and can be helpful it all depends on your colleagus, working with people who does not make you feel stressed or overwhelmed will let you feel productive, active and gives you the energy to work, but working with selfish people or judging people will make you stressed and you maybe will not want go to work because of this bad stressful feeling.
